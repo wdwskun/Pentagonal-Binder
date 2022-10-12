@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pentagonal binder", "Pentagonal binder\Pentagonal binder.vbproj", "{7786D016-7EC1-4BE0-9272-2A8B0A36B039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7786D016-7EC1-4BE0-9272-2A8B0A36B039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7786D016-7EC1-4BE0-9272-2A8B0A36B039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7786D016-7EC1-4BE0-9272-2A8B0A36B039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7786D016-7EC1-4BE0-9272-2A8B0A36B039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC70BB7A-D381-4AE1-8E50-6E58ECCFB1AB}
+	EndGlobalSection
+EndGlobal
